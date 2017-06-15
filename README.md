@@ -1,1 +1,2 @@
-# Project-Fight-Club
+# Project Fight Club
+Android game in development. ;D  
