@@ -1,7 +1,7 @@
 # Project Fight Club
 Android game in development. ;D  
 ## Characters:
-Our goal for number of characters is six.
+Our temporary goal for number of characters is six.
   * Liti
   * Lorena 
     * I'm a feminist 
@@ -10,7 +10,7 @@ Our goal for number of characters is six.
     * Looks like shit.
   
 ## Weapons:
-Our goal for weapons is also 5 
+Our temporary goal for weapons is also 5 
 
 ### Images dimensions:
   * **Characters:** 32 x 48
