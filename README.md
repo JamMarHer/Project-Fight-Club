@@ -5,7 +5,7 @@ Just another ***Fight Club***
   * Liti : Ran 4th in the 100m at the Beijing Olympics, then got his pevlis crushed by a truck.
   * Lorena : I'm a feminist 
   * Peng Peng : Couldn't feed his wife and kids, so they starved.
-  * Niles Carver : failed to qualify for the Space Academy; died in a plane crash.
+  * Niles Carver : Failed to qualify for the Space Academy; died in a plane crash.
   * Shit : Looks like shit.
   * Legacy Saiyan : Wonderer of the plains, natually born there.
   
