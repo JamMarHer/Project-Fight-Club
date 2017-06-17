@@ -1,5 +1,5 @@
 # Project Fight Club
-Android game in development. ;D  
+Just another ***Fight Club***
 ## Characters:
 Our temporary goal for number of characters is six.
   * Liti
