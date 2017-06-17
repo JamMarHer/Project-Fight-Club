@@ -12,6 +12,8 @@ Our temporary goal for number of characters is six.
 ## Weapons:
 Our temporary goal for weapons is also 5 
 
+## Formatting Guidelines:
+
 ### Images dimensions:
   * **Characters:** 32 x 48
   * **Weapons:** 64 x 16
