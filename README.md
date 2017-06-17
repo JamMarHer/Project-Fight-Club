@@ -1,7 +1,7 @@
 # Project Fight Club
 Just another ***Fight Club***
 ## Characters:
-Our temporary goal for number of characters is six.
+ Our Beta Version will support 6 characters.
   * Liti
   * Lorena 
     * I'm a feminist 
@@ -10,7 +10,7 @@ Our temporary goal for number of characters is six.
     * Looks like shit.
   
 ## Weapons:
-Our temporary goal for weapons is also 5 
+Our Beta version will support 5 weapons. 
 
 ## Formatting Guidelines:
 
