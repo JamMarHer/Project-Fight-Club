@@ -11,6 +11,7 @@ Just another ***Fight Club***
   
 ## Weapons:
 Our Beta version will support 5 weapons. 
+  * Classic Sword: Simple looking sword, nothing fancy.
 
 ## Formatting Guidelines:
 
