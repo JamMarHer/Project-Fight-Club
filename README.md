@@ -6,7 +6,7 @@ Just another ***Fight Club***
   * Lorena : Feminist who does not believe in the LGBTQ comunity.
   * Peng Peng : Couldn't feed his wife and kids, so they starved.
   * Niles Carver : Failed to qualify for the Space Academy; died in a plane crash.
-  * Shit : Looks like shit, acts like shit, and does not give a shit <3.
+  * Shitman : Looks like shit, acts like shit, and does not give a shit <3.
   * Legacy Saiyan : Wonderer of the plains, natually born there.
   
 ## Weapons:
